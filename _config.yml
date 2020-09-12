@@ -1,15 +1,15 @@
 # ----
 # Site
 
-title: Prodaric CCR
-url: "https://prodaric.neftaliyagua.com/Prodaric-CCR"
+title: Prodaric LCM
+url: "https://prodaric.neftaliyagua.com/Prodaric-LCM"
 baseurl: https://prodaric.github.io
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 logo: /images/logo.png
-description: Continuity of Care Record
+description: "LCM: Learning Content Management"
 author:
   name: Neftalí Yagua
   email: despacho@neftaliyagua.com
