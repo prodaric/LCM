@@ -4,8 +4,8 @@
 title: Prodaric LCM
 url: "https://prodaric.neftaliyagua.com/Prodaric-LCM"
 baseurl: https://prodaric.github.io
-google_analytics_key:
-google_maps_javascript_api_key:
+google_analytics_key: UA-138496171-1
+google_maps_javascript_api_key: AIzaSyDzKo2mOdmX99Og6hUtfZvZp3vJx9c_yI4
 disqus_shortname:
 
 logo: /images/logo.png
