@@ -1,16 +1,16 @@
 - links:
-  - name: CRM
-    link: /CRM/
-  - name: ERP
-    link: /ERP/
-  - name: HRM
-    link: /HRM/
-  - name: CCR
-    link: /CCR/
-  - name: LCM
-    link: /LCM/
-  - name: CMS
-    link: /CMS/
+  - name: Prodaric CRM
+    link: https://crm.prodaric.com/
+  - name: Prodaric ERP
+    link: https://erp.prodaric.com/
+  - name: Prodaric HRM
+    link: https://hrm.prodaric.com/
+  - name: Prodaric CCR
+    link: https://ccr.prodaric.com/
+  - name: Prodaric LCM
+    link: https://lcm.prodaric.com/
+  - name: Prodaric CMS
+    link: https://cms.prodaric.com/
 - links:
   - name: Login
     link: /
