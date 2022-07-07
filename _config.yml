@@ -1,27 +1,19 @@
 # ----
 # Site
 
-title: Prodaric
-url: "https://prodaric.com"
-baseurl:
+title: Prodaric LCM
+url: "https://lcm.prodaric.com"
+baseurl: /
 google_analytics_key: UA-138496171-1
 google_maps_javascript_api_key: AIzaSyDzKo2mOdmX99Og6hUtfZvZp3vJx9c_yI4
 disqus_shortname:
 
-logo: https://prodaric.com/images/logotron.png
-tagline: The Productivity Framework
-
+logo: /images/logo.png
+description: "LCM: Learning Content Management"
 author:
   name: Neftalí Yagua
   email: despacho@neftaliyagua.com
-  twitter: NeftaliYagua
-facebook:
-  app_id: 3191657556  83112
-#  publisher: 1234
-#  admins: 1234
-twitter:
-  username: Prodaric
-  card: summary
+  twitter: neftaliyagua
 social:
   name: Prodaric
   links:
@@ -116,3 +108,5 @@ _comments:
   highlight: Emphasis the text
   color: The background colour used in the plan name and call to action.
   new_window: Open link in new window
+
+remote_theme: prodaric/prodaric.github.io
