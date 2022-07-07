@@ -1,0 +1,60 @@
+- links:
+  - name: CRM
+    link: /CRM/
+  - name: ERP
+    link: /ERP/
+  - name: HRM
+    link: /HRM/
+  - name: CCR
+    link: /CCR/
+  - name: LCM
+    link: /LCM/
+  - name: CMS
+    link: /CMS/
+- links:
+  - name: Login
+    link: /
+    new_window: true
+  - name: Sign Up
+    link: /
+    new_window: true
+  - name: Docs
+    link: /
+    new_window: true
+  - name: Status
+    link: /
+    new_window: true
+- links:
+  - name: Login
+    link: /
+    new_window: true
+  - name: Sign Up
+    link: /
+    new_window: true
+  - name: Docs
+    link: /
+    new_window: true
+  - name: Status
+    link: /
+    new_window: true
+- links:
+  - name: Facebook
+    link: https://facebook.com/Prodaric/
+    new_window: true
+    social_icon: Facebook
+  - name: Twitter
+    link: https://twitter.com/Prodaric
+    social_icon: Twitter
+    new_window: true
+  - name: Github
+    link: https://github.com/prodaric
+    social_icon: Github
+    new_window: true
+  - name: NPM
+    link: https://www.npmjs.com/package/prodaric/prodaric
+    social_icon: NPM
+    new_window: true
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false
